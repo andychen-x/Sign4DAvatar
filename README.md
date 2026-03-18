@@ -9,9 +9,9 @@ So far, only part of the code and raw sign video have been released. The Code an
 # DCSL Dataset Download
 The DCSL database is strictly restricted to academic research purposes and is available only to recognized universities and research institutes. To obtain access rights, please complete the following steps:
 
-- Download the [DCSL Dataset Release Agreement](https://github.com/herochen7372/Sign4DAvatar/blob/main/DCSL_Dataset_Release_Agreement.pdf) from [Quark Cloud Drive](https://pan.quark.cn/s/318f4e320cee).
+- Download the [DCSL Dataset Release Agreement](https://github.com/andychen-x/Sign4DAvatar/blob/main/DCSL_Dataset_Release_Agreement.pdf).
 - Review all terms and conditions thoroughly.
 - Fill out the agreement appropriately. **Note:** The document must be authorized and signed by a full-time staff or faculty member. Signatures from students will not be accepted.
 - Scan the fully executed agreement and send it via email to <2021111446@mail.hfut.edu.cn>, with a CC to Prof. Wang at <qswang@hfut.edu.cn>. Student applicants must ensure that the signing faculty/staff member is also CC'd on this email request.
 
-Our sign language dataset is stored on [Quark Cloud Drive](https://pan.quark.cn/s/965b27143c93). Once your application is approved, you will receive the file extraction code. The textual annotations with gloss-spoken sequences for our sign language videos are available in the file [DCSL annotation.xlsx](https://github.com/herochen7372/Sign4DAvatar/blob/main/DCSL%20annotation.xlsx) from [Quark Cloud Drive](https://pan.quark.cn/s/4a92e120415b).
+Our sign language dataset is stored on [Quark Cloud Drive](https://pan.quark.cn/s/965b27143c93). Once your application is approved, you will receive the file extraction code. The textual annotations with gloss-spoken sequences for our sign language videos are available in the file [DCSL annotation.xlsx](https://github.com/andychen-x/Sign4DAvatar/blob/main/DCSL%20annotation.xlsx).
